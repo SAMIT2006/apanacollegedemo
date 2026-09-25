@@ -1,4 +1,4 @@
 # apanacollegedemo
 This is my first git repository.
 <br>
-Author-Amit Singh
+Author-Amit Singh apana college
